@@ -20,17 +20,19 @@ member dari user, lalu menghitung total harga yang harus dibayar.
 ![Screenshot 2024-10-26 143922](https://github.com/user-attachments/assets/e48c9b86-ac89-4ec8-bfc3-f2a5e6defbcd)
 
 ### Penjelasan:
-Harga Tiket: Menyimpan harga tiket reguler dan VIP.
+● Harga Tiket: Menyimpan harga tiket reguler dan VIP.
 
-Input: Meminta pengguna untuk memasukkan tipe tiket dan status member.
+● Input: Meminta pengguna untuk memasukkan tipe tiket dan status member.
 
-Validasi Tipe Tiket: Menggunakan if-elif-else untuk memeriksa tipe tiket.
+● Validasi Tipe Tiket: Menggunakan if-elif-else untuk memeriksa tipe tiket.
 
-Total Harga: Menghitung total harga menggunakan operator ternary:
-Jika pengguna memiliki kartu member (member == "ya"), harga dikurangi diskon 20%.
-Jika tidak, harga tetap sama.
+● Total Harga: Menghitung total harga menggunakan operator ternary:
 
-Output: Menampilkan total harga yang harus dibayar.
+● Jika pengguna memiliki kartu member (member == "ya"), harga dikurangi diskon 20%.
+
+● Jika tidak, harga tetap sama.
+
+● Output: Menampilkan total harga yang harus dibayar.
 
 ### Flowchart nya
 
