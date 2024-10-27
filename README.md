@@ -67,3 +67,7 @@ Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dar
 Maka outputnya akan menjadi:
 
   Hasil: 10.0 + 5.0 = 15.0
+
+### Flowchart nya
+
+![Flowchart Kalkulator drawio](https://github.com/user-attachments/assets/22764f74-7cd9-4624-a864-8497978f150b)
