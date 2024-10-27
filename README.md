@@ -68,6 +68,49 @@ Maka outputnya akan menjadi:
 
   Hasil: 10.0 + 5.0 = 15.0
 
+### Flowchart Program Kalkulator
+
+1. Mulai
+
+       ● Titik awal program.
+2. Input Angka Pertama
+
+       ● Minta pengguna memasukkan angka pertama.
+3. Input Operator
+
+       ● Minta pengguna memasukkan operator aritmatika (+, -, *, /).
+4. Input Angka Kedua
+
+       ● Minta pengguna memasukkan angka kedua.
+5. Cek Operator
+
+       ● Apakah operator sama dengan +?
+              ● Jika ya, lakukan penjumlahan.
+              ● Jika tidak, lanjut ke langkah berikutnya.
+6. Cek Operator
+
+       ● Apakah operator sama dengan -?
+              ● Jika ya, lakukan pengurangan.
+              ● Jika tidak, lanjut ke langkah berikutnya.
+7. Cek Operator
+
+       ● Apakah operator sama dengan *?
+              ● Jika ya, lakukan perkalian.
+              ● Jika tidak, lanjut ke langkah berikutnya.
+8. Cek Operator
+
+       ● Apakah operator sama dengan /?
+              ● Jika ya, cek apakah angka kedua tidak sama dengan 0.
+                     ● Jika tidak sama dengan 0, lakukan pembagian.
+                     ● Jika sama dengan 0, tampilkan pesan error: "Error: Pembagian dengan nol tidak diizinkan."
+              ● Jika tidak, tampilkan pesan error: "Error: Operator tidak valid."
+9. Tampilkan Hasil
+
+       ● Tampilkan hasil perhitungan berdasarkan operasi yang dilakukan.
+10. Selesai
+
+       ● Akhiri program.
+
 ### Flowchart nya
 
 ![Flowchart Kalkulator drawio](https://github.com/user-attachments/assets/22764f74-7cd9-4624-a864-8497978f150b)
