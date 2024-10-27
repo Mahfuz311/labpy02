@@ -31,3 +31,31 @@ Jika pengguna memiliki kartu member (member == "ya"), harga dikurangi diskon 20%
 Jika tidak, harga tetap sama.
 
 Output: Menampilkan total harga yang harus dibayar.
+
+### Flowchart nya
+
+![Flowchart Tiket Bioskop drawio](https://github.com/user-attachments/assets/4dd310ed-2128-470b-b0ab-4aa597148c89)
+
+## Kasus 2: Program Kalkulator Sederhana
+
+Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dari pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan menghitung hasil sesuai dengan operator yang dipilih.
+
+### Petunjuk
+● Gunakan if elif else untuk menentukan operasi aritmatika.
+
+### Hasil Eksekusi Program
+
+![Screenshot 2024-10-27 122941](https://github.com/user-attachments/assets/5afc93ba-7535-4225-b279-460a47f0e088)
+
+### Contoh Interaksi
+●Jika Anda memasukkan:
+
+       ●Angka pertama: 10
+  
+       ●Operator: +
+  
+       ●Angka kedua: 5
+  
+Maka outputnya akan menjadi:
+
+  Hasil: 10.0 + 5.0 = 15.0
