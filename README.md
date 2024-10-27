@@ -47,6 +47,13 @@ Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dar
 
 ![Screenshot 2024-10-27 125031](https://github.com/user-attachments/assets/94ff9db9-cef0-4342-a674-96664addd3bf)
 
+### Penjelasan
+       ● Program meminta pengguna untuk memasukkan dua angka dan satu operator.
+
+       ● Menggunakan if, elif, dan else untuk memeriksa operator yang dimasukkan dan melakukan operasi yang sesuai.
+
+       ● Jika operator yang dimasukkan tidak valid, program akan menampilkan pesan error.
+
 ### Contoh Interaksi
 ● Jika Anda memasukkan:
 
