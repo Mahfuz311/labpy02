@@ -45,16 +45,17 @@ Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dar
 
 ### Hasil Eksekusi Program
 
-![Screenshot 2024-10-27 122941](https://github.com/user-attachments/assets/5afc93ba-7535-4225-b279-460a47f0e088)
+![Screenshot 2024-10-27 125031](https://github.com/user-attachments/assets/94ff9db9-cef0-4342-a674-96664addd3bf)
 
 ### Contoh Interaksi
 ● Jika Anda memasukkan:
 
        ● Angka pertama: 10
-  
+       
+        ● Operator: +
+        
        ● Angka kedua: 5
 
-       ● Operator: +
   
 Maka outputnya akan menjadi:
 
